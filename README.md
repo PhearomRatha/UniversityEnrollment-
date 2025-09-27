@@ -15,7 +15,6 @@ Many students face difficulties with the current university enrollment system:
     •	As a student, I want digital receipts so I can keep my payment information safe.
     •	As a student, I want to check my enrollment status so I know if my payment is confirmed.
     •	As a student, I want to see announcements on the app so I stay updated with important news.
-
 3. UI Mockup / Wireframe
 
 4. Features
