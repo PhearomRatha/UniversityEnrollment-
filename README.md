@@ -1,10 +1,10 @@
 # 1. Problem Statement
-Many students face difficulties with the current university enrollment system:
+### + Many students face difficulties with the current university enrollment system:
     •	Long queues at the finance office waste valuable time.
     •	Physical payment receipts can be lost.
     •	Announcements are limited to Telegram, making updates slow.
     •	No online access to enrollment status.
-  This affects almost all students, especially those with busy schedules or those who live far away. To solve this, we propose a University Enrollment App that allows students to:
+### + This affects almost all students, especially those with busy schedules or those who live far away. To solve this, we propose a University Enrollment App that allows students to:
     •	Pay tuition fees online.
     •	Get automatic digital receipts.
     •	Check enrollment status anytime.
