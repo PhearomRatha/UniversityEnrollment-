@@ -1,4 +1,4 @@
-1. Problem Statement
+# 1. Problem Statement
 Many students face difficulties with the current university enrollment system:
     •	Long queues at the finance office waste valuable time.
     •	Physical payment receipts can be lost.
@@ -10,14 +10,14 @@ Many students face difficulties with the current university enrollment system:
     •	Check enrollment status anytime.
     •	Access university announcements and news quickly.
     •	View class schedules and student details easily.
-2. User Stories
+# 2. User Stories
     •	As a student, I want to pay my tuition fees online so I don’t need to wait in long queues.
     •	As a student, I want digital receipts so I can keep my payment information safe.
     •	As a student, I want to check my enrollment status so I know if my payment is confirmed.
     •	As a student, I want to see announcements on the app so I stay updated with important news.
-3. UI Mockup / Wireframe
+# 3. UI Mockup / Wireframe
 
-4. Features
+# 4. Features
     •	Login Page: Students sign in with email and password.
     •	Homepage: Shows student info, classes, university news, and enrollment option.
     •	Online Payment System: Secure tuition fee payment.
