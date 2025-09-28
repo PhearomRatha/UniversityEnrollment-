@@ -15,9 +15,8 @@
     •	As a student, I want digital receipts so I can keep my payment information safe.
     •	As a student, I want to check my enrollment status so I know if my payment is confirmed.
     •	As a student, I want to see announcements on the app so I stay updated with important news.
-# 3. UI Mockup / Wireframe
 
-# 4. Features
+# 3. Features
     •	Login Page: Students sign in with email and password.
     •	Homepage: Shows student info, classes, university news, and enrollment option.
     •	Online Payment System: Secure tuition fee payment.
