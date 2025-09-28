@@ -8,13 +8,12 @@
     •	Pay tuition fees online.
     •	Get automatic digital receipts.
     •	Check enrollment status anytime.
-    •	Access university announcements and news quickly.
     •	View class schedules and student details easily.
 # 2. User Stories
     •	As a student, I want to pay my tuition fees online so I don’t need to wait in long queues.
     •	As a student, I want digital receipts so I can keep my payment information safe.
     •	As a student, I want to check my enrollment status so I know if my payment is confirmed.
-    •	As a student, I want to see announcements on the app so I stay updated with important news.
+    •	As a student, I want to check my schedules on mobile anytime I want.
 
 # 3. Features
     •	Login Page: Students sign in with email and password.
@@ -22,6 +21,5 @@
     •	Online Payment System: Secure tuition fee payment.
     •	Digital Receipts: Automatically generated after each transaction.
     •	Enrollment Page: Enroll in semester classes online.
-    •	News Page: University announcements and updates.
     •	My Class Page: View student details, enrolled classes, and schedule.
 
